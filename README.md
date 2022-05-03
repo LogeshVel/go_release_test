@@ -1,0 +1,1 @@
+# go_release_test
